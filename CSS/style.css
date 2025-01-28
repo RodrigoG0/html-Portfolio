@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: rgb(86, 217, 222);
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 28px;
+    background: -webkit-linear-gradient(#ef2a90, #f96fa8, #ffa1c2, #ffcede, #fffbfc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent
+}
+
+
+
+#jojo1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 20px solid;
+    border-image: linear-gradient(to bottom, #56d9de, #61d1ff, #a2c1ff, #deaeef, #ffa1c2);
+    border-image-slice: 1;
+   
+}
+
+
+    
